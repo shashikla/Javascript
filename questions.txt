@@ -1,0 +1,25 @@
+1.  expalin difference between typescript and javascript
+2.  Find the count of repeating element in an array
+3.  What is the output of the following code?
+    let y = 30;
+    console.log(y);
+    let y = 28;
+    
+4.  Map function or difference between map and filter, forEach
+5.  what is Typeof variables 
+    Typeof NaN
+    typeof(null)
+    typeof([1,2,3])
+    typeof myCar
+    typeof function () {}   
+    typeof 3.14
+    typeof false
+6.  what is splice and slice explain with example?
+7.  difference between let and var
+8.  what is arraow function and difference between arraow function and normal function
+9.  Find duplicates in an array
+10. Explain Hoisting in javascript.
+11. what is callback()?
+12. Explain Closure in Javascript?
+13. Expalin 'this' keyword?
+
