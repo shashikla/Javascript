@@ -23,3 +23,15 @@
 12. Explain Closure in Javascript?
 13. Expalin 'this' keyword?
 
+var i = 5;
+for(var i=0; i<10;i++){}
+console.log(i);
+14. what is the o/p of this code?
+15. What is Lexical Scope
+16. setTimeout vs setImmediate
+17. Javascript weakly typed or strongly typed
+18. what are the Array Methods?
+19. Undeclared vs undefined
+20. Higher-order function vs first-class function
+21. Observable vs Promises
+22. 
