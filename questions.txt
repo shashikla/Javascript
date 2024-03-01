@@ -34,4 +34,16 @@ console.log(i);
 19. Undeclared vs undefined
 20. Higher-order function vs first-class function
 21. Observable vs Promises
-22. 
+22. o/p = >? 
+console.log(1);
+setTimeout(function () {
+  console.log(2);
+}, 0);
+
+Promise.resolve()
+  .then(function () {
+    console.log(3);
+  })
+  .then(function () {
+    console.log(4);
+  });
