@@ -47,3 +47,5 @@ Promise.resolve()
   .then(function () {
     console.log(4);
   });
+23. Javascript is synchronous or async ? how will perform asynchronous?
+24. what is event loop? microtask and callback queue.
